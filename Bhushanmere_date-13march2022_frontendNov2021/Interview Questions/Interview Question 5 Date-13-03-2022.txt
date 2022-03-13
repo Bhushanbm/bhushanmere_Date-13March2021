@@ -1,0 +1,17 @@
+What are the different data types present in JavaScript?
+-There are two types of data types in JavaScript:
+-Primitive data types
+-Non-Primitive data types
+
+-Primitive data types
++number
++string
++boolean
++symbol
++null
++undefine
++bigint
+
+-Non-Primitive data types
++Array
++Object

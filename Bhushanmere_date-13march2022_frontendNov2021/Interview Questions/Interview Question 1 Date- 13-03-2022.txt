@@ -1,0 +1,2 @@
+Define Closure
+In Javascript we need closure when a variable which is defined outside the scope in reference is accessed from some inner scope.

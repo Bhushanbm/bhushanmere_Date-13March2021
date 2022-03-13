@@ -1,0 +1,8 @@
+What is the use of window object?
+-The window object is created automatically by the browser that represents a window of a browser. 
+-It is not an object of JavaScript. It is a browser object.
+-The window object is used to display the popup dialog box.
+-window objects:
+-alert()-displays the alert box containing the message with ok button.
+-setTimeout()-performs the action after specified time like calling function, evaluating expressions.
+-prompt()-displays a dialog box to get input from the user.
